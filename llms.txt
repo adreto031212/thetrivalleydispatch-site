@@ -1,0 +1,22 @@
+# Tri-Valley Dispatch
+
+> The Tri-Valley Dispatch is a free weekly email newsletter about Danville, Alamo, San Ramon, Pleasanton, Dublin and Livermore, CA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Tri-Valley](https://www.thetrivalleydispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.thetrivalleydispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.thetrivalleydispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Downtown Danville](https://www.thetrivalleydispatch.com/downtown-danville/): The town center along Hartz Avenue and Front Street, with the Village Theatre, the Veterans Memorial Building, the Town Green, the Community Center and Library, and the Iron Horse Trail.
+- [Sycamore Valley and Tassajara](https://www.thetrivalleydispatch.com/sycamore-valley/): East Danville around Sycamore Valley Park on Holbrook Drive, Osage Station Park and its memorial rose garden on Brookside Drive, and Diablo Vista Park on Tassajara Ranch Drive.
+- [Alamo](https://www.thetrivalleydispatch.com/alamo/): The unincorporated community north of Danville along Danville Boulevard and Stone Valley Road, with the Iron Horse Trail, Livorna Park on Miranda Avenue and Hap Magee Ranch Park on La Gonda Way.
+- [San Ramon City Center](https://www.thetrivalleydispatch.com/san-ramon-city-center/): San Ramon's City Core east of Interstate 680 along Bollinger Canyon Road, with City Center Bishop Ranch, City Hall, Central Park, the San Ramon Library and the transit center.
+- [Dougherty Valley](https://www.thetrivalleydispatch.com/dougherty-valley/): Eastern San Ramon along Bollinger Canyon Road, with the Dougherty Station Community Center and Dougherty Station Library at East Branch Parkway, beside Diablo Valley College's San Ramon campus.
+- [Downtown Pleasanton](https://www.thetrivalleydispatch.com/downtown-pleasanton/): The historic center along Main Street, with Lions Wayside and Delucchi parks at First and Neal streets, the Firehouse Arts Center on Railroad Avenue and the Pleasanton Library on Old Bernal Avenue.
+- [Hacienda](https://www.thetrivalleydispatch.com/hacienda/): The Hacienda district on Pleasanton's northern edge along Owens Drive and Hacienda Drive, next to Interstate 580 and the Dublin/Pleasanton BART station.
+- [Downtown Dublin](https://www.thetrivalleydispatch.com/downtown-dublin/): Dublin's downtown along Dublin Boulevard, between San Ramon Road, Amador Valley Boulevard, Village Parkway and Interstate 580, with the West Dublin/Pleasanton BART station.
+- [East Dublin](https://www.thetrivalleydispatch.com/east-dublin/): Eastern Dublin along Central Parkway, Tassajara Road and Fallon Road, with Emerald Glen Park, The Wave aquatic center and the 60-acre Fallon Sports Park.
+- [Downtown Livermore](https://www.thetrivalleydispatch.com/downtown-livermore/): Livermore's downtown along First Street, with the Bankhead Theater, Carnegie Park, Stockmen's Park and the Livermore Transit Center on Railroad Avenue.
+- [Springtown](https://www.thetrivalleydispatch.com/springtown/): North Livermore's Springtown area north of Interstate 580, with the Springtown Library on Bluebell Drive beside the duck pond.
+- [South Livermore Valley](https://www.thetrivalleydispatch.com/south-livermore-valley/): South of downtown Livermore along Arroyo Road and Wetmore Road, with Sycamore Grove Park, the Ravenswood Historic Site and the vineyards of the South Livermore Valley.
